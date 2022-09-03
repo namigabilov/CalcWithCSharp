@@ -115,10 +115,12 @@ namespace kalkluyator
             {
                 case 1:
                     double Sqrt1 = Math.Sqrt(a);
+                     Console.Writeline( a + "Ededinin kvadrat koku :");
                     Console.WriteLine(Sqrt1);
                     break;
                 case 2:
                     double Sqrt2 = Math.Sqrt(b);
+                    Console.Writeline( b + "Ededinin kvadrat koku :");
                     Console.WriteLine(Sqrt2);
                     break;
 
